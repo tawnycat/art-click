@@ -1,0 +1,63 @@
+[
+{
+    "id": 1,
+    "url": "./images/american gothic.jpg",
+    "info": "American Gothic by Grant Wood"
+},
+{
+    "id": 2,
+    "url": "./images/arnolfini.jpg",
+    "info": "The Arnolfini Portrait by Jan van Eyck"
+},
+{
+    "id": 3,
+    "url": "./images/birth of venus.jpg",
+    "info": "The Birth of Venus by Sandro Botticelli"
+},
+{
+    "id": 4,
+    "url": "./images/mona lisa.jpg",
+    "info": "Mona Lisa by Leonardo da Vinci"
+},
+{
+    "id": 5,
+    "url": "./images/monet.jpg",
+    "info": "Water Lillies by Claude Monet"
+},
+{
+    "id": 6,
+    "url": "./images/pearl earring.jpg",
+    "info": "Girl with a Pearl Earring by Johannes Vermeer"
+},
+{
+    "id": 7,
+    "url": "./images/pollock.jpg",
+    "info": "jackson Pollock painting"
+},
+{
+    "id": 8,
+    "url": "./images/renoir.jpg",
+    "info": "Bal du moulin de la Galette by Pierre-Auguste Renoir"
+
+},
+{
+    "id": 9,
+    "url": "./images/seurat.jpg",
+    "info": "A Sunday on La Grande Jatte by Georges Seurat"
+},
+{
+    "id": 10,
+    "url": "./images/starry night.jpg",
+    "info": "STarry Night by Vincent van Gogh"
+},
+{
+    "id": 11,
+    "url": "./images/the kiss.jpg",
+    "info": "The Kiss by Gustav Klimt"
+},
+{
+    "id": 12,
+    "url": "./images/velazquez.jpg",
+    "info": "Las Meninas by Diego Velazquez"
+}
+]
