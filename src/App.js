@@ -1,6 +1,7 @@
 import React, { Component } from "react";
 import Photo from "./components/Photo";
-import Container from "./components/Container";
+import Container from "./components/Container.js";
+import Photobox from "./components/Photobox.js";
 import Header from "./components/Header";
 import photos from "./photos.json";
 import "./App.css";
@@ -46,8 +47,9 @@ class App extends Component {
 
   render() {
      return (
-      <Container>
-        <Header score={this.state.score}>Art-Click</Header>
+        <Container>
+                      <Header score={this.state.score}>Art-Click</Header>
+                      <Photobox>
         {photos.map(photo => (
           <Photo
           clickPicture={this.clickPicture}
@@ -57,6 +59,7 @@ class App extends Component {
             info={photo.info}
           />
         ))}
+        </Photobox>
       </Container>
     );}
 }
